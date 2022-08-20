@@ -1,6 +1,7 @@
 # INFO6205_PSA_Final_Project
 
-K-means Algorithm
+## K-means Algorithm
+
 K-means clustering is a simple and popular type of unsupervised machine learning algorithm, which is used on unlabeled data. The goal of this algorithm is toﬁnd groups in the data, with the number of groups represented by the variable K. The algorithm works iteratively to assign each data point to one of K groups according to provided features similarity. Algorithm steps for K-means given as following.
 
 Randomly pick K observations and set them as initial cluster centers
