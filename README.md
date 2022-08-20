@@ -10,3 +10,10 @@ For each of the K clusters, compute the cluster centroid. The kth clustercentroi
 Assign each observation to the cluster whose centroid is closest (where closest is deﬁned using Euclidean distance).
 When N is number of samples and K is number of clusters, K-means algorithm try to minimize objective function which given as following.
 
+![Objective Function](https://user-images.githubusercontent.com/45906647/90062451-613ef880-dcf0-11ea-9f19-6a3f12496b28.png)
+
+
+### Here's an example visualization:
+[gifKmeans](https://github.com/stratzilla/k-means-clustering/blob/master/images/perfect.gif)
+
+
