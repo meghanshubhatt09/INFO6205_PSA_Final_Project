@@ -14,6 +14,6 @@ When N is number of samples and K is number of clusters, K-means algorithm try t
 
 
 ### Here's an example visualization:
-[gifKmeans](https://github.com/stratzilla/k-means-clustering/blob/master/images/perfect.gif)
+![gifKmeans](https://github.com/meghanshubhatt09/INFO6205_PSA_Final_Project/blob/main/img/ezgif-2-829f2a1860.gif)
 
 
